@@ -1,0 +1,27 @@
+{
+  "beforeSource": "a11280eef",
+  "afterSource": "1d74ae52bbe065e9ef28c6cec6302d7e8626d15b",
+  "request": {
+    "format": "gif",
+    "fps": 30,
+    "gifLoop": 3
+  },
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "gif",
+        "width": 640,
+        "height": 360,
+        "duration": "3.000000",
+        "nb_read_frames": "90"
+      }
+    ]
+  },
+  "loopCount": 3,
+  "distinctFrames": 90,
+  "downloadMatchesOutput": true,
+  "previewLoaded": true,
+  "sidecarWritten": true
+}
